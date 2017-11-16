@@ -7,6 +7,7 @@
     <body>
         <?php
             echo 'Hello!';
+            echo 'Debug';
         ?>
     </body>
 </html>
